@@ -279,7 +279,7 @@ const LandingPage = () => {
             
             <div className="group relative overflow-hidden rounded-lg shadow-lg hover:shadow-xl transition-all duration-300">
               <img 
-                src="/images/WhatsApp Image 2025-09-05 at 11.21.44 (1).jpeg"
+                src="/images/WhatsApp Image 2025-09-05 at 11.21.44.jpeg"
                 alt="Instalação elétrica"
                 className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -295,7 +295,7 @@ const LandingPage = () => {
               <img 
                 src="/images/Gemini_Generated_Image_fsi0pnfsi0pnfsi0 (2).png"
                 alt="Climatização moderna"
-                className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
+                className="w-full h-64 object-cover object-top group-hover:scale-105 transition-transform duration-300"
               />
               <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-40 transition-all duration-300 flex items-center justify-center">
                 <div className="text-white text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
@@ -351,7 +351,7 @@ const LandingPage = () => {
               <img 
                 src="/images/WhatsApp Image 2025-09-05 at 11.21.47 (2).jpeg"
                 alt="Trabalho de qualidade"
-                className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
+                className="w-full h-64 object-cover object-top group-hover:scale-105 transition-transform duration-300"
               />
               <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-40 transition-all duration-300 flex items-center justify-center">
                 <div className="text-white text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
@@ -401,15 +401,15 @@ const LandingPage = () => {
                 </p>
                 <div className="space-y-3">
                   <div className="flex items-center text-gray-600">
-                    <MapPin className="h-5 w-5 text-blue-600 mr-3" />
+                    <MapPin className="h-5 w-5 text-blue-600 mr-3 flex-shrink-0" />
                     <span>Rua das Gaivotas, S/N, Casa, Bairro Benevente - Anchieta-ES, CEP: 29230-000</span>
                   </div>
                   <div className="flex items-center text-gray-600">
-                    <Clock className="h-5 w-5 text-blue-600 mr-3" />
+                    <Clock className="h-5 w-5 text-blue-600 mr-3 flex-shrink-0" />
                     <span>Segunda a Sábado: 08:00 às 20:00</span>
                   </div>
                   <div className="flex items-center text-gray-600">
-                    <Phone className="h-5 w-5 text-blue-600 mr-3" />
+                    <Phone className="h-5 w-5 text-blue-600 mr-3 flex-shrink-0" />
                     <span>(28) 99903-5150</span>
                   </div>
                 </div>
@@ -461,7 +461,7 @@ const LandingPage = () => {
               className="bg-green-600 hover:bg-green-700 text-white px-10 py-5 text-xl font-semibold rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
             >
               <MessageCircle className="mr-3 h-6 w-6" />
-              Solicitar Orçamento Agora
+              Solicitar Orçamento
             </Button>
           </div>
         </div>
