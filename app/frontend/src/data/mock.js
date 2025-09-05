@@ -121,7 +121,7 @@ export const mockData = {
     {
       name: "Carlos Oliveira",
       location: "Benevente, Anchieta-ES",
-      comment: "Já é o terceiro equipamento que compro com a Cardoso. Preço justo, qualidade e um pós-venda excepcional. Recomendo!",
+      comment: "Já é o terceiro equipamento que compro com a Cardoso. Preço justo, qualidade e um pós-venda excepcional. Super recomendo!",
       service: "Venda + Instalação"
     },
     {
