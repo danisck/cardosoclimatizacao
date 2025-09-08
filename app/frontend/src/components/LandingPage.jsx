@@ -479,6 +479,7 @@ const LandingPage = () => {
                   className="h-16 w-auto"
                 />
               </div>
+              <p className="text-white font-semibold mb-2">Cardoso Climatização</p>
               <p className="text-gray-300 mb-4">
                 Climatização profissional em Anchieta-ES. Qualidade, garantia e atendimento excepcional.
               </p>
