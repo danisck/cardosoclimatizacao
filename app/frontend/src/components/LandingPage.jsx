@@ -66,7 +66,7 @@ const LandingPage = () => {
               <span className="text-blue-400"> Anchieta-ES</span>
             </h2>
             <p className="text-xl text-gray-100 mb-8 leading-relaxed drop-shadow-md">
-              Há mais de 9 anos levando conforto térmico para milhares de clientes em Anchieta e região. 
+              Há mais de 12 anos levando conforto térmico para milhares de clientes em Anchieta e região. 
               Instalação, manutenção e higienização de ar condicionado com garantia e qualidade.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
@@ -91,7 +91,7 @@ const LandingPage = () => {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-3xl mx-auto">
               <div className="flex items-center justify-center space-x-2 text-gray-100">
                 <Award className="h-5 w-5 text-blue-400" />
-                <span className="font-medium drop-shadow-sm">Mais de 9 anos de experiência</span>
+                <span className="font-medium drop-shadow-sm">Mais de 12 anos de experiência</span>
               </div>
               <div className="flex items-center justify-center space-x-2 text-gray-100">
                 <Users className="h-5 w-5 text-blue-400" />
@@ -390,7 +390,7 @@ const LandingPage = () => {
               <div>
                 <h4 className="text-2xl font-semibold text-gray-900 mb-4">Jean Silva Cardoso</h4>
                 <p className="text-gray-600 mb-6 leading-relaxed">
-                  Jean Silva Cardoso trabalhou por 9 anos em uma empresa e identificou a necessidade que a população 
+                  Jean Silva Cardoso trabalhou por 12 anos em uma empresa e identificou a necessidade que a população 
                   tinha de uma empresa séria e compromissada com a prestação de serviço de venda, 
                   instalação e manutenção de ar condicionado.
                 </p>

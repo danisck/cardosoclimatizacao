@@ -90,7 +90,7 @@ export const mockData = {
 
   differentials: [
     {
-      title: "9 Anos de Experiência",
+      title: "12 Anos de Experiência",
       description: "Experiência sólida no mercado de climatização em Anchieta e região.",
       icon: Award
     },
