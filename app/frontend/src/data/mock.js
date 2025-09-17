@@ -113,21 +113,27 @@ export const mockData = {
 
   testimonials: [
     {
-      name: "Maria Santos",
-      location: "Centro, Anchieta-ES",
-      comment: "Excelente atendimento! Instalaram meu ar condicionado no prazo e com muita qualidade. Jean é muito profissional e pontual.",
+      name: "Cliente Satisfeita",
+      location: "Anchieta-ES",
+      comment: "Quero deixar registrado o excelente serviço que recebi na instalação do ar-condicionado. Fiz a instalação na minha loja e fiquei muito satisfeita com o resultado. O atendimento foi rápido, organizado e de muita qualidade. Além da instalação bem feita, recebi todas as orientações necessárias para manter o aparelho funcionando corretamente. Recomendo de olhos fechados!",
       service: "Instalação"
     },
     {
-      name: "Carlos Oliveira",
-      location: "Benevente, Anchieta-ES",
-      comment: "Já é o terceiro equipamento que compro com a Cardoso. Preço justo, qualidade e um pós-venda excepcional. Super recomendo!",
+      name: "Cliente Satisfeito",
+      location: "Anchieta-ES",
+      comment: "Contratei a empresa para a instalação de quatro aparelhos de ar-condicionado (três unidades de 12.000 BTUs e uma de 30.000 BTUs) e fiquei extremamente satisfeito com o serviço prestado. Destaco a pontualidade da equipe, o preço justo praticado e, principalmente, a qualidade da instalação realizada. Recomendo com confiança a todos que buscam profissionalismo e excelência.",
+      service: "Instalação"
+    },
+    {
+      name: "Cliente Satisfeito",
+      location: "Anchieta-ES",
+      comment: "A Cardoso climatização foi indicação de um amigo, a correia do dia não me dava tempo para fazer a compra do ar condicionado para depois encontrar um técnico para instalação, eles forneceram o ar condicionado e instalação do produto com bastante rapidez e eficiência e muito comprometimento, na data e horário marcado estava lá para a instalação do meu novo ar, profissional de alto padrão, gostei muito!",
       service: "Venda + Instalação"
     },
     {
-      name: "Ana Paula Costa",
-      location: "Ubu, Anchieta-ES",
-      comment: "A manutenção foi perfeita! Meu ar condicionado voltou a funcionar como novo. Atendimento nota 10!",
+      name: "Cliente Satisfeita",
+      location: "Anchieta-ES",
+      comment: "Contratei várias empresas para colocar meu ar condicionado para funcionar, nenhum profissional encontrou o problema, eu já sem esperança me indicaram a Cardoso Climatização, o rapaz foi lá, muito atencioso, educado e prestativo, Jean o nome dele, verificou todo o aparelho, deu trabalho, mas encontrou o problema, estou muito satisfeita com o trabalho e com o capricho no trabalho.",
       service: "Manutenção"
     }
   ]

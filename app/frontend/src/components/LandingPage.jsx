@@ -402,7 +402,7 @@ const LandingPage = () => {
                 <div className="space-y-3">
                   <div className="flex items-center text-gray-600">
                     <MapPin className="h-5 w-5 text-blue-600 mr-3 flex-shrink-0" />
-                    <span>Rua das Gaivotas, S/N, Casa, Bairro Benevente - Anchieta-ES, CEP: 29230-000</span>
+                    <span>Rua das Gaivotas, 360, Casa, Bairro Benevente - Anchieta-ES, CEP: 29230-000</span>
                   </div>
                   <div className="flex items-center text-gray-600">
                     <Clock className="h-5 w-5 text-blue-600 mr-3 flex-shrink-0" />
@@ -510,7 +510,7 @@ const LandingPage = () => {
               <div className="space-y-3 text-gray-300">
                 <div className="flex items-center">
                   <MapPin className="h-4 w-4 mr-2" />
-                  <span className="text-sm">Rua das Gaivotas, S/N, Casa, Bairro Benevente<br />Anchieta-ES, CEP: 29230-000</span>
+                  <span className="text-sm">Rua das Gaivotas, 360, Casa, Bairro Benevente<br />Anchieta-ES, CEP: 29230-000</span>
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-4 w-4 mr-2" />
