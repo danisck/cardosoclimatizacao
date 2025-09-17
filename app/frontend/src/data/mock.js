@@ -135,6 +135,18 @@ export const mockData = {
       location: "Anchieta-ES",
       comment: "Contratei várias empresas para colocar meu ar condicionado para funcionar, nenhum profissional encontrou o problema, eu já sem esperança me indicaram a Cardoso Climatização, o rapaz foi lá, muito atencioso, educado e prestativo, Jean o nome dele, verificou todo o aparelho, deu trabalho, mas encontrou o problema, estou muito satisfeita com o trabalho e com o capricho no trabalho.",
       service: "Manutenção"
+    },
+    {
+      name: "Cliente Fiel",
+      location: "Anchieta-ES",
+      comment: "Trabalho com você já tem 3 anos, seu serviço é de ótima qualidade, na realidade durante esse tempo só tenho a elogiar, muito obrigado por tudo.",
+      service: "Cliente Fiel"
+    },
+    {
+      name: "Cliente Satisfeito",
+      location: "Anchieta-ES",
+      comment: "Jean é um excelente profissional, atencioso e caprichoso com o serviço, buscando sempre o melhor para os clientes, sem dúvidas o melhor da região.",
+      service: "Profissionalismo"
     }
   ]
 };
