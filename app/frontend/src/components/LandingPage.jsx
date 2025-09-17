@@ -192,13 +192,11 @@ const LandingPage = () => {
             {mockData.testimonials.map((testimonial, index) => (
               <Card key={index} className="border border-gray-200 hover:shadow-lg transition-shadow duration-300">
                 <CardHeader>
-                  <div className="flex items-center space-x-1 mb-2">
+                  <div className="flex items-center space-x-1 mb-4">
                     {[...Array(5)].map((_, i) => (
                       <Star key={i} className="h-4 w-4 fill-yellow-400 text-yellow-400" />
                     ))}
                   </div>
-                  <CardTitle className="text-lg text-gray-900">{testimonial.name}</CardTitle>
-                  <CardDescription className="text-sm text-gray-500">{testimonial.location}</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600 italic">"{testimonial.comment}"</p>
